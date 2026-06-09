@@ -14,10 +14,10 @@ Compare assets and liabilities across different cities.
 Support financial decision-making through visual analytics.
 
 ## Tools Used
-Power BI Desktop
-DAX (Data Analysis Expressions)
-Data Modeling
-Data Visualization
+Power BI Desktop,
+DAX (Data Analysis Expressions),
+Data Modeling,
+Data Visualization.
 
 ## Key Insights
 Tracks overall financial health using multiple KPIs.
